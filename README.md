@@ -6,7 +6,7 @@
 <meta http-equiv="Cache" content="no-cache">
 ## Welcome to 站点事件!
 
-在此页，将会列出所有的站点事件或者更改日志！asaa
+在此页，将会列出所有的站点事件或者更改日志！
 
 2019/07/11 周四 21:41:36.90 H5mcbox 给此页添加了提交者显示
 
