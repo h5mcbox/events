@@ -1,6 +1,11 @@
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="bookmark" href="/favicon.ico" type="image/x-icon">
 ## Welcome to 站点事件!
 
 在此页，将会列出所有的站点事件或者更改日志！
+
+2019/09/08 周日 19:37:13.57 H5mcbox 部署了网站图标
 
 2019/08/08 周三 14:54 H5mcbox 部署了评论
 
